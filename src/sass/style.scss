@@ -1,0 +1,6 @@
+@import "mixins.scss";
+
+.ifawModal {
+  @import "./desktop.scss";
+  @import "./mobile.scss";
+}
